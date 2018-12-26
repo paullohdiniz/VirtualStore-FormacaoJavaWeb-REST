@@ -1,7 +1,15 @@
-![Logo](/images/logo.png)
-# VirtualStore-FormacaoJavaWeb-REST
-Practical project developed by students of the Java Web - Back-end (REST)
+![GitHub Logo](/virtual-store-security/images/logo.png)
+## VirtualStore-FormacaoJavaWeb-REST
 
+### _Descrição do Projeto_
+
+Este projeto tem como objetivo a criação de serviços REST que fornecerão informações para um cliente de uma livraria.
+
+Para issro, foi criado os serviços utilizando o framework _Spring Boot_ com _Spring MVC_ e seus componentes _Spring REST_.
+
+### Practical project developed by students of the Java Web - Back-end (REST)
+
+### Pré-requisito para utilizar este projeto.
 ```
 =========|_|==============
 :: JAVA JDK :: (v1.8).
@@ -14,7 +22,8 @@ Practical project developed by students of the Java Web - Back-end (REST)
 * ABRIR O ECLIPSE OU STS - [link to ECLIPSE!](https://www.eclipse.org/downloads/packages/release/oxygen/3a)
 * BAIXAR O GIT
 
-2º) ALTERNATIVAS DE SE UTILIZAR UM PROJETO DO GITHUB - PROJETOS DE TERCEIROS
+2º) 
+* ALTERNATIVAS DE SE UTILIZAR UM PROJETO DO GITHUB - PROJETOS DE TERCEIROS
 * IMPORTAR PROJETO GIT PELO ECLIPSE
         - Import Git Project. 
         - Add link github. Link do github do proprietário.
@@ -24,6 +33,8 @@ Practical project developed by students of the Java Web - Back-end (REST)
 * CRIAR PROJETO NA SUA MÁQUINA E ADD NO GITHUB* SPRING BOOT PELO INITIALIZR
 * MAVEN - GESTÃO DE DEPENDÊNCIAS E BUILD
 * TDD - PROGRAMAÇÃO ORIENTADA À TESTES
+
+3º)
 
 ```
   .   ____          _            __ _ _
@@ -35,9 +46,11 @@ Practical project developed by students of the Java Web - Back-end (REST)
  :: Spring Boot ::        (v1.5.9.RELEASE)
 
 ```
-
- * INICIANDO ENTENDIMENTO STRING BOOT
- * CRIAÇÃO DE PROJETO REST
-
+* INICIANDO ENTENDIMENTO STRING BOOT / MVC / REST
+* CRIAÇÃO DE PROJETO REST
 
 
+4º) 
+
+* Projeto de autenticação e autorização como serviço RESTFul
+* Utilizando Spring OAuth2 e JWT
