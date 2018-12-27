@@ -1,4 +1,4 @@
-package br.com.virtualstore.virtualstorecontroller;
+package br.com.virtualstore.adm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
